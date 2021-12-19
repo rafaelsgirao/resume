@@ -2,7 +2,7 @@ Rafael Girão
 ======
 
 <!-- #### Sysadmin enthusiast with a strong background in math, science and programming. -->
-###### [ [github.com/rafaelsgirao](https://github.com/rafaelsgirao) ] . [ rafael.s.girao@tecnico.ulisboa.pt ] . [ +351 939 411 076]
+###### [ [github.com/rafaelsgirao](https://github.com/rafaelsgirao) ] . [ [rafael.s.girao@tecnico.ulisboa.pt](mailto:rafael.s.girao@tecnico.ulisboa.pt) ] . [ +351 939 411 076]
 
 
 Educação e Formação
@@ -25,20 +25,21 @@ Experiência
 
 -->
 
-
-Aptidões, competências e atividades de interesse
-------
-**Escuteiro Marítimo** no agrupamento 929 Belém (2013-2018)
-
-**Membro da [STT](https://sectt.github.io)**, equipa de Segurança do Instituto Superior Técnico (2021-presente)
-
-Skills
+Competências
 ------
 **Programação:** Python, C, Java, <!--Prolog-->
 
 **Ferramentas:** Git, CVS, Chef, Terraform, Docker
 
 **Sistemas Operativos:** Debian, Ubuntu, Arch Linux, NixOS
+
+
+Atividades de interesse
+------
+**Escuteiro Marítimo** no agrupamento 929 Belém (2013-2018)
+
+<!--**Membro da [STT](https://sectt.github.io)**, equipa de Segurança do Instituto Superior Técnico (2021-presente) -->
+
 
 <!--
 Awards

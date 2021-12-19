@@ -1,49 +1,56 @@
-Sonya Sawtelle
+Rafael Girão
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+<!-- #### Sysadmin enthusiast with a strong background in math, science and programming. -->
+###### [ [github.com/rafaelsgirao](https://github.com/rafaelsgirao) ] . [ rafael.s.girao@tecnico.ulisboa.pt ] . [ +351 939 411 076]
 
 
-Education
+Educação e Formação
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**Licenciatura em Engenharia Informática e de Computadores, Instituto Superior Técnico** (2020-presente)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+- [https://ist.pt](https://ist.pt)
 
-**B.S. in Physics, Indiana University** (2008-2011)
+**Curso de Ciências e Tecnologias, Escola Secundária da Moita** (2017-2020)
 
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
+- [https://aemoita.pt](https://aemoita.pt)
 
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
-
-Experience
+Experiência
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Bolseiro do Núcleo de Sistemas dos Serviços de Informática , Instituto Superior Técnico** (2021-presente)
 
+
+<!--
 - Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+-->
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+
+Aptidões, competências e atividades de interesse
+------
+**Escuteiro Marítimo** no agrupamento 929 Belém (2013-2018)
+
+**Membro da [STT](https://sectt.github.io)**, equipa de Segurança do Instituto Superior Técnico (2021-presente)
 
 Skills
 ------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+**Programação:** Python, C, Java, <!--Prolog-->
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+**Ferramentas:** Git, CVS, Chef, Terraform, Docker
 
+**Sistemas Operativos:** Debian, Ubuntu, Arch Linux, NixOS
+
+<!--
 Awards
 ------
 - **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
 - **IU Founders Scholar**, Indiana University (2012)
 - **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
 
-Projects
+Projetos
 --------
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
 - Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+
+-->

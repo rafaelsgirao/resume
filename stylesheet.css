@@ -419,12 +419,14 @@ display: inline;
 /* Github css */
 
 
+/* FIXME
 @font-face {
 	font-family: 'FONT_LOCAL';
 	src: url('C:/Users/Sonya/Box Sync/Projects/markdown-resume/comic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
+*/
 
 @font-face {
   font-family: 'Roboto';
